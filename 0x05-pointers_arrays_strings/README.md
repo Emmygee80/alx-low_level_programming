@@ -20,3 +20,5 @@ C - pointers , arrays and strings
 
 9- a function that copies the string pointed to by src , including the terminating null byte (\0) to the buffer pointed to dest.
 
+
+

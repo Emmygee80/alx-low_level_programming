@@ -8,7 +8,7 @@
 
 *@n: parameter
 
-*Return : nothing;
+*Return : nothing
 
 */
 
